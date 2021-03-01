@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/CustomerListFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/ActorFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/CityFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/SalesByFilmCategoryFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/PaymentFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/AbstractFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/CountryFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/FilmCategoryFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/FilmListFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/FilmFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/ActorInfoFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/StaffFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/CategoryFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/CustomerFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/FilmActorFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/SalesByStoreFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/RentalFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/StaffListFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/AddressFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/NicerButSlowerFilmListFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/StoreFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/LanguageFacade.java</file>
+            <file>file:/C:/Users/Luis/Documents/NetBeansProjects/Jpa_Ejemplo1/src/java/ec/edu/progrmacion/dvd/dao/InventoryFacade.java</file>
+        </group>
+    </open-files>
+</project-private>
